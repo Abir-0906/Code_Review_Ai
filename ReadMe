@@ -1,0 +1,30 @@
+# 🤖 AI-Powered Code Reviewer
+
+Boost your code quality with an intelligent, full-stack **AI Code Reviewer**! Built using the **MERN Stack**, this app uses **Artificial Intelligence** to analyze, review, and suggest improvements for source code — making it the perfect tool for developers aiming to write cleaner, more efficient, and bug-free code.
+
+---
+
+## 🚀 Features
+
+- 💡 **AI Code Analysis** – Get intelligent feedback and suggestions on your code.
+- 🧠 **Natural Language Suggestions** – Human-like, clear explanations powered by AI.
+- 📁 **Multi-language Support** – Review JavaScript, Python, and more.
+- 📊 **Highlight Issues Inline** – Smart display of suggestions on specific lines.
+- 🌐 **Full-Stack MERN App** – MongoDB, Express, React, and Node.js.
+- ☁️ **Cloud Deployment Ready** – Easily deploy to Render, Vercel, or Netlify.
+
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React.js, Tailwind CSS 
+- **Backend**: Node.js, Express.js
+
+- **AI Integration**: Gemini
+- **Other Tools**: Axios, dotenv, CORS, Prism, Markdown,rehypeHighlight
+
+---
+
+
+
