@@ -13,18 +13,18 @@ Boost your code quality with an intelligent, full-stack **AI Code Reviewer**! Bu
 - 🌐 **Full-Stack MERN App** – MongoDB, Express, React, and Node.js.
 - ☁️ **Cloud Deployment Ready** – Easily deploy to Render, Vercel, or Netlify.
 
+---
+
+## 🔗 Live Demo
+
+👉 **Try it here**: [AI Code Reviewer Live](https://eclectic-sfogliatella-f368d7.netlify.app/)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, Tailwind CSS 
-- **Backend**: Node.js, Express.js
+- **Frontend**: React.js, Tailwind CSS  
+- **Backend**: Node.js, Express.js  
 
-- **AI Integration**: Gemini
-- **Other Tools**: Axios, dotenv, CORS, Prism, Markdown,rehypeHighlight
-
----
-
-
-
+- **AI Integration**: Gemini  
+- **Other Tools**: Axios, dotenv, CORS, Prism, Markdown, rehypeHighlight
